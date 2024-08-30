@@ -8,8 +8,7 @@ This project utilizes machine learning techniques to predict the Remaining Usefu
 2. [Data Description](#data-description)
 3. [Model Training and Evaluation](#model-training-and-evaluation)
 4. [Results](#results)
-5. [Troubleshooting](#troubleshooting)
-6. [References](#references)
+5. [References](#references)
 
 ## Project Overview
 
